@@ -1,2 +1,2 @@
 # rl-pylib
-quality code only ;)
+Nur deutscher Code ;)
